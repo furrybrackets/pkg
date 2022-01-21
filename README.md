@@ -24,7 +24,7 @@ Some general useful flags include:
 * `-L` - Lets `pkg` know what repo to look in (default is `pkg`)
 * `--CF` - Compiler flags, is appended to the generated flags made by the build
 * `--CFo` - `--CFo` except it doesn't append the flags, it overrides them
-* `--Od` - Duplicate output to directory
+* `--Od` - Duplicate output to a specified directory
 * `--O` - redirect output
 * `-P` - list of different patches you want to run on the program
 * `-V` - download a specific version
