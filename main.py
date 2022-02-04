@@ -12,6 +12,6 @@ Options:
 from docopt import docopt
 
 args=docopt(usage)
-
+print(args)
 if args["--version"] == True:
   print("pkg version 0.1)
